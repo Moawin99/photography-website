@@ -18,9 +18,9 @@ export default function Home() {
           </div>
 
           {/* Masonry grid — natural aspect ratios */}
-          <div className="columns-2 md:columns-3 gap-1">
+          <div className="columns-2 md:columns-3 gap-6">
             {collection.photos.map((photo) => (
-              <div key={photo.src} className="break-inside-avoid mb-1">
+              <div key={photo.src} className="break-inside-avoid mb-6">
                 <Image
                   src={photo.src}
                   alt={photo.alt}
