@@ -38,7 +38,7 @@ export default function ContactPage() {
               rel="noopener noreferrer"
               className="text-sm text-gray-600 hover:text-black transition-colors"
             >
-              @markmoawad
+              @moflickz
             </Link>
           </div>
           <div>

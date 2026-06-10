@@ -16,10 +16,10 @@ export default function AboutPage() {
         {/* Image */}
         <div>
           <Image
-            src="/images/nyc/nyc-0030.jpg"
+            src="/images/me/97EF1D1B-422D-405C-9220-193BF193E4DD_1_105_c.jpeg"
             alt={siteConfig.name}
-            width={3303}
-            height={4952}
+            width={1088}
+            height={722}
             className="w-full h-auto"
             priority
             sizes="(max-width: 768px) 100vw, 50vw"
