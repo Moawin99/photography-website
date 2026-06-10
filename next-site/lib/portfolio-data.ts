@@ -158,7 +158,6 @@ export const collections: Collection[] = [
       { src: '/images/landmarks/london/London-4-5-4.jpg', alt: 'London', width: 4000, height: 5000 },
       { src: '/images/landmarks/london/London-4-5-6.jpg', alt: 'London', width: 4000, height: 5000 },
       { src: '/images/landmarks/london/London-16-9-1.jpg', alt: 'London', width: 4000, height: 7111 },
-      { src: '/images/landmarks/london/London-16-9-2.jpg', alt: 'London', width: 4000, height: 7111 },
       { src: '/images/landmarks/london/London-16-9-5.jpg', alt: 'London', width: 4000, height: 7111 },
     ],
   },
