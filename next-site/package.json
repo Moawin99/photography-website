@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "sync-photos": "node scripts/sync-photos.mjs",
     "start": "next start",
     "lint": "eslint"
   },
